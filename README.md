@@ -14,7 +14,7 @@ Para visualizar meu portfólio online, basta acessar o link https://lambent-croi
 Se preferir, você também pode clonar este repositório e abrir o arquivo `index.html` no seu navegador.
 
 
-git clone  https://github.com/rafaelchriss/Portif-lio
+git clone  https://github.com/rafaelchriss/Portif-lio <br><br>
 cd Portif-lio
 
 

@@ -15,4 +15,4 @@ Se preferir, você também pode clonar este repositório e abrir o arquivo `inde
 
 ```bash
 git clone  https://github.com/rafaelchriss/Portif-lio
-cd ortif-lio
+cd Portif-lio

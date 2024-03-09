@@ -15,8 +15,8 @@ Se preferir, você também pode clonar este repositório e abrir o arquivo `inde
 
 ```bash
 git clone  https://github.com/rafaelchriss/Portif-lio
-cd Portif-lio
+cd Portif-lio```
+
+![image](https://github.com/rafaelchriss/Portif-lio/assets/86614504/8469606c-71ce-412b-bd50-138e33db1be3)
 
 
-
-![image](https://github.com/rafaelchriss/Portif-lio/assets/86614504/40fab44b-d507-4ff4-9274-f79c5400b556)

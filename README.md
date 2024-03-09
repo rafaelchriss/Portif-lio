@@ -4,14 +4,15 @@ Bem-vindo ao meu portfólio! Este repositório contém os arquivos e códigos fo
 
 ## Visão Geral
 
-Este projeto foi desenvolvido como parte das atividades escolares, com o objetivo de criar um espaço online para destacar meu trabalho e habilidades. O site foi construído utilizando [tecnologias utilizadas HTML e CSS].
+Este projeto foi desenvolvido como parte das atividades, com o objetivo de criar um espaço online para destacar meu trabalho e habilidades. <br>
+O site foi construído utilizando  HTML e CSS.
 
 ## Como Visualizar
 
-Para visualizar meu portfólio online, basta acessar [o link https://lambent-croissant-4a298c.netlify.app/].
+Para visualizar meu portfólio online, basta acessar o link https://lambent-croissant-4a298c.netlify.app/.
 
 Se preferir, você também pode clonar este repositório e abrir o arquivo `index.html` no seu navegador.
 
 ```bash
 git clone  https://github.com/rafaelchriss/Portif-lio
-cd seu-repositorio
+cd ortif-lio

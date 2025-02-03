@@ -9,7 +9,11 @@ O site foi construído utilizando  HTML e CSS.
 
 ## Como Visualizar
 
+<<<<<<< HEAD
 Para visualizar meu portfólio online, basta acessar o link https://rafaelchrissweblandtwo.netlify.app/.
+=======
+Para visualizar meu portfólio online, basta acessar o link https://lambent-croissant-4a298c.netlify.app/.
+>>>>>>> 0b43b76 (commit)
 
 Se preferir, você também pode clonar este repositório e abrir o arquivo `index.html` no seu navegador.
 

@@ -16,7 +16,6 @@ Se preferir, você também pode clonar este repositório e abrir o arquivo `inde
 
 
 git clone  https://github.com/rafaelchriss/Portif-lio <br><br>
-cd Portif-lio
 
 
 ![{48EF880E-9BB7-4C16-9900-9FD194880BB5}](https://github.com/user-attachments/assets/47ac198e-1fe0-444e-b342-f36f55d0d469)

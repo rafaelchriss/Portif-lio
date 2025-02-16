@@ -9,7 +9,7 @@ O site foi construído utilizando  HTML e CSS.
 
 ## Como Visualizar
 
-Para visualizar meu portfólio online, basta acessar o link https://rafaelchrissweblandtwo.netlify.app/
+Para visualizar meu portfólio online, basta acessar o link https://rafaelchriss.netlify.app/
 
 
 Se preferir, você também pode clonar este repositório e abrir o arquivo `index.html` no seu navegador.
